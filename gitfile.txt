@@ -1,0 +1,4 @@
+git status --> check the staging (file we want to commit)
+git add <filename> --> add file in staging
+git commit -m "message for commit" --> commit code
+git log -->  no of times commit done
