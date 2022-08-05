@@ -1,3 +1,3 @@
 <?php 
-	echo "Hello Shivam";
+	echo "Welcome to learn php";
 ?>
